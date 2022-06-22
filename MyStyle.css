@@ -1,0 +1,17 @@
+body {
+    background: url("https://img.freepik.com/foto-gratis/piezas-ajedrez-madera-esparcidas-sobre-fondo-naranja-dispuestas-orden-aleatorio-como-bodegon-plano_124595-1653.jpg?w=2000") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+#CardConversor {
+    margin-top: 15%;
+}
+
+img {
+    width: 100%;
+    margin-bottom: 15px;
+}
